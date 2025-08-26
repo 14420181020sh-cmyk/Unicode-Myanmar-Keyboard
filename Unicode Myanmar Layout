@@ -1,0 +1,10 @@
+name: "Unicode Myanmar Layout"
+author: "Your Name"
+description: "Pyi Htaung Hsu-compatible layout"
+encoding: "utf-8"
+
+a > က
+s > ခ
+d > ဂ
+f > ဃ
+...
